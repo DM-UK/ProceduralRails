@@ -23,5 +23,8 @@ A more technical description on the drawing of curves is provided [here](TECHNIC
 **Identical track placement with different track properties**
 ![](/src/main/resources/image20250823223702.png)
 
+https://github.com/user-attachments/assets/b1c5d190-342b-42c1-89fd-733f69a2ebf9
+
 **Demo screenshot**
 ![](/src/main/resources/image20250823224806.png)
+
